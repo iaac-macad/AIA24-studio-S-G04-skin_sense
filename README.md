@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GITHUBNAME/PROJECTNAME">
-    <img src="assets/logo.svg" alt="Logo" width="150">
+    <img src="assets/image (3).png" alt="Logo" width="150">
   </a>
 
   <h3 align="center"> Skin Sense </h3>
