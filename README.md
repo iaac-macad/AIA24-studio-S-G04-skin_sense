@@ -1,15 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/GITHUBNAME/PROJECTNAME/pull/73 -->
-<a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -20,7 +8,7 @@
   <h3 align="center"> PROJECTNAME </h3>
 
   <p align="center" style="font-weight: bold;">
-    IAAC: AI in Urbanism 2022-23
+    IAAC: AI in Architecture 2023-24
     <br />
     <a href="https://colab.research.google.com/github/GITHUBNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
     ·
@@ -70,7 +58,7 @@
 
 ![Project image](assets/main_image.png)
 
-Project developed under the course AI in Urbanism 2022-23 in [IAAC](https://iaac.net/).
+Project developed under the course AI in Architecture 2023-24 in [IAAC](https://iaac.net/).
 
 __Description:__ one sentence description of the project containing why, what, how (where and for whom) \
  __Problem statement:__ which problem the project solves, _why_ you are doing it. \
