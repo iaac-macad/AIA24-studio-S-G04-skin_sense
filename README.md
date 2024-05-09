@@ -5,7 +5,7 @@
     <img src="assets/logo.svg" alt="Logo" width="150">
   </a>
 
-  <h3 align="center"> PROJECTNAME </h3>
+  <h3 align="center"> Skin Sense </h3>
 
   <p align="center" style="font-weight: bold;">
     IAAC: AI in Architecture 2023-24
