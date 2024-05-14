@@ -60,11 +60,11 @@
 
 Project developed under the course AI in Architecture 2023-24 in [IAAC](https://iaac.net/).
 
-__Description:__ one sentence description of the project containing why, what, how (where and for whom) \
+__Description:__ SkinSense predicts the indoor thermal comfort accordingly to the combination of the window ratio on the facade and the shading system. SkinSense will use Pix2Pix model that will be trained on a data set of a combination of facade encoded RGB images and a honeybee indoor floor heat maps. why, what, how (where and for whom) \
  __Problem statement:__ which problem the project solves, _why_ you are doing it. \
  __Idea:__ _what_ you are doing to solve the problem \
  __Solution:__ _how_ you are solving the problem, the method \
- __Place:__ _where_ \
+ __Place:__ Cairo\
  __Beneficiaries:__ the users of the project, _who_ will benefit from it.
 
 
