@@ -71,13 +71,6 @@ __Description:__ SkinSense predicts the indoor thermal comfort accordingly to th
 
 
 
-### Intro
-
-A longer description of the project, not more than 150 words.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -89,13 +82,9 @@ A longer description of the project, not more than 150 words.
 * [Pytorch](https://pytorch.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Mapbox](https://www.mapbox.com/)
-* [GoogleStreetMaps](https://mapsplatform.google.com/)
-* [Yelp](https://www.yelp.se/stockholm)
 * [OpenAI API](https://openai.com/product)
-* [Midjourney](https://midjourney.com/)
 * [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 * [Flask](https://flask.palletsprojects.com/en/2.3.x/)
-* [FastAPI](https://fastapi.tiangolo.com/)
 * [Colab](https://colab.research.google.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,14 +95,6 @@ A longer description of the project, not more than 150 words.
 ![Methodology](assets/methodology.svg)
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-<a href="https://colab.research.google.com/github/AUTHORNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>\
-alternatively clone the repo:
-```
-git clone https://github.com/AUTHORNAME/PROJECTNAME.git
-```
 
 ### Prerequisites
 None
@@ -123,9 +104,7 @@ None
 ### Usage
 
 To use the project follow these steps:\
-_Describe how to use your project (e.g. how to import the csv file you used, which cells to run to see which output, which packages to install, where to create an account (e.g. a token for chatgpt ?))_
-* Step 1
-* Step 2
+_The user needs to input a Geometry for the extrior walls and the openings of a building floor_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
